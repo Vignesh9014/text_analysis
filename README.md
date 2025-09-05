@@ -1,0 +1,1 @@
+The Text Analysis Project focuses on extracting insights from unstructured text data using Natural Language Processing (NLP) techniques. It covers data preprocessing, sentiment analysis, topic modeling, and visualization to transform raw text into actionable knowledge.
